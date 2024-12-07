@@ -1,0 +1,11 @@
+{
+  "name": "buscadorimg",
+  "version": "1.0.0",
+  "description": "Api que consume datos de Unsplash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhovan Hernandez Ramirez",
+  "license": "ISC"
+}
